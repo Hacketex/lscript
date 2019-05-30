@@ -1,4 +1,5 @@
 #! /bin/bash
+#edited file by pratik 
 clear
 printf '\033]2;INSTALLER\a'
 echo -e "Press \e[1;33many key\e[0m to install the script..."
